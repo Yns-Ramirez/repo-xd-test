@@ -1,2 +1,2 @@
 # repo-xd-test
-Repositorio para pruebas 
+Repositorio para pruebas. 
